@@ -1,6 +1,6 @@
 # README: Simulace dynamiky HBV infekce
 
-Tento projekt obsahuje kód pro simulaci dynamiky infekce virem hepatitidy B (HBV) pomocí soustavy obyčejných diferenciálních rovnic (ODE). Model vychází z práce "Matematické modelování interakce viru a imunitního systému uvnitř hostitele", který je přiřazen do projektu pod shodným jménem, a popisuje interakce mezi virem, infikovanými buňkami, zdravými buňkami, cytotoxickými T-lymfocyty (CTL) a protilátkami, s cílem pochopit dynamiku infekce a imunitní odpovědi. Samotný kód umožňuje sledovat vývoj populací jednotlivých složek modelu v čase.
+Tento projekt obsahuje kód pro simulaci dynamiky infekce virem hepatitidy B (HBV) pomocí soustavy obyčejných diferenciálních rovnic (ODE). Model vychází z práce "Matematické modelování interakce viru a imunitního systému uvnitř hostitele", která je přiřazena do projektu pod shodným jménem. Popisuje interakce mezi virem, infikovanými buňkami, zdravými buňkami, cytotoxickými T-lymfocyty (CTL) a protilátkami, s cílem pochopit dynamiku infekce a imunitní odpovědi. Samotný kód umožňuje sledovat vývoj populací jednotlivých složek modelu v čase.
 
 ## Základní struktura projektu
 
